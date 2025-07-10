@@ -1,4 +1,4 @@
-# Prácticas de C++ – Curso Programación C++ 
+#  C++ – Curso Programación C++ 
 
 Este repositorio contiene ejercicios y prácticas realizadas durante el curso en programación con C++. Incluye ejemplos de:
 
